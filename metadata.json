@@ -1,0 +1,5 @@
+{
+  "name": "Garmony",
+  "description": "An interactive lyrics and song generator that creates personalized lyrics, cover art, and vocal performance.",
+  "requestFramePermissions": []
+}
